@@ -7,6 +7,8 @@
 
 # 👥 Default Users
 The application comes with 3 predefined users:
-- Petr (login: 79207865432 or petr@gmail.com, password: petr)
-- Ivan (login: 79876543210 or ivan@gmail.com, password: ivan)
-- Nika (login: 375291010101 or nika@gmail.com, password: nika)
+Name | Login (phone number / email) | Password 
+--- | --- | --- 
+Petr | 79207865432 / petr@gmail.com | petr
+Ivan | 79876543210 / ivan@gmail.com | ivan
+Nika | 375291010101 / nika@gmail.com | nika
